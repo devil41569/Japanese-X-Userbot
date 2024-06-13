@@ -68,8 +68,8 @@ async def start(app, message):
         [
             InlineKeyboardButton("𝐒𝐮𝐩𝐩𝐨𝐫𝐭", url="https://t.me/Japanese_Userbot_Support"),
             InlineKeyboardButton("𝐂𝐡𝐚𝐧𝐧𝐞𝐥", url="https://t.me/Japanese_Userbot"),
-            InlineKeyboardButton("𝐎𝐰𝐧𝐞𝐫", url="https://t.me/Nobitaa_xd"),
-            InlineKeyboardButton("𝐑𝐞𝐩𝐨", url="https://github.com/Team-Japanese/Japanese-X-Userbot"),
+            InlineKeyboardButton("𝐎𝐰𝐧𝐞𝐫", url="http://t.me/Aayu1510 "),
+            InlineKeyboardButton("𝐑𝐞𝐩𝐨", url="https://graph.org/file/4aba7a36891acb0646775.mp4"),
         ],
     ])
 
